@@ -1,1 +1,1 @@
-export const POLICY_MODE = "good";
+export const POLICY_MODE = "bad";
